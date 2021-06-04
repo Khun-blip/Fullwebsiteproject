@@ -39,4 +39,4 @@ How will you rate the testing?
 •	Errors: How many errors do users make, how severe are these errors, and how easily can they recover from the errors? 
 •	 Satisfaction: How pleasant is it to use the design?
 
-![image](https://user-images.githubusercontent.com/81811807/120815428-61abc700-c582-11eb-83ae-5457b2ea5c2c.png)
+
