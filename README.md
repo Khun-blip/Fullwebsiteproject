@@ -24,6 +24,7 @@ For the menu page, you will see the difference design.
 In the contact page, you can type your name, email etc and you can choose your interest products and then when you click the submit, you will reach to the other site and you will see thank you form.
 If you did not fill up the following instructions, the thank you page will not come out. 
 It will not show the error but you can’t move forward.
+For the upload web server, I just upload in Git.![image](https://user-images.githubusercontent.com/81811807/120815676-a20b4500-c582-11eb-8e2b-2bd051d850d7.png)
 
 6.	Post-test debrief:
 Did you satisfied with the input?
